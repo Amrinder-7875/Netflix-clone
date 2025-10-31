@@ -38,7 +38,6 @@ To get a local copy up and running, follow these simple steps.
 ### Prerequisites
 
 * A web browser (e.g., Chrome, Firefox, Safari).
-* *(If using React/Vite)* [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine.
 
 
 
